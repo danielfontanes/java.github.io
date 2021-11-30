@@ -1,0 +1,27 @@
+#menu{
+    margin: 10px;
+    padding:5px 10px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+#menu div{
+    padding: 20px;
+    margin: 5px 0px;
+}
+#menu div div{
+    background-color:black;
+}
+#menu h2{
+    font-size: 40px;
+}
+#menu h3{
+    font-size: 30px;
+}
+
+#clase{
+    background-color: red;
+}
+#objeto{
+    background-color: blue;
+}
